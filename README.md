@@ -37,11 +37,13 @@ MySport/
 
 ### Schritte
 
+```bash
 cd MySport
 mkdir build && cd build
 cmake ..
 make
 ./MySport  # Oder der generierte Binary-Name
+```
 
 
 ## 👨‍🎓 Über mich
