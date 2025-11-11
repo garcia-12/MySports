@@ -58,4 +58,6 @@ Dieses Projekt spiegelt mein Interesse an Struktur, Modularität und zukunftsger
 - GUI zur Visualisierung  
 - Datenexport im JSON/CSV-Format
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/garcia-12/MySports)
+
 „Code ist wie Training – je mehr Struktur, desto mehr Leistung.“
